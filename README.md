@@ -1,4 +1,4 @@
-# Hi there, I'm Abhishek Panchal 👋
+# Hi there, I'm Aniket Panchal 👋
 
 <div align="center">
   
