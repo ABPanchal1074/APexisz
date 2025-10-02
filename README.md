@@ -86,7 +86,6 @@ class AniketPanchal:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-6DB33F?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=python&logoColor=white)
 
@@ -110,24 +109,9 @@ class AniketPanchal:
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
 </details>
 
-<details open>
-<summary><b>🚀 MLOps & Production</b></summary>
-<br/>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-</details>
 
 <details open>
 <summary><b>☁️ Cloud & Infrastructure</b></summary>
@@ -160,61 +144,11 @@ class AniketPanchal:
 <table>
 <tr>
 <td width="50%">
-
-### 🔬 Current Research
-```yaml
-areas:
-  - Efficient LLM fine-tuning methods
-  - Multi-modal learning architectures
-  - Model compression & quantization
-  - Few-shot & zero-shot learning
-  - Retrieval augmented generation
-
-methodologies:
-  - Novel attention mechanisms
-  - Parameter-efficient training
-  - Knowledge distillation
-  - Continual learning approaches
-```
-
-</td>
-<td width="50%">
-
-### 🚀 Building Now
-```yaml
-projects:
-  - High-performance RAG systems
-  - Custom CUDA kernels for inference
-  - Distributed training frameworks
-  - Real-time ML serving platforms
-  - Automated MLOps pipelines
-
-focus:
-  - Sub-100ms inference latency
-  - Production-grade reliability
-  - Cost-effective scaling
-  - Model interpretability
-```
-
 </td>
 </tr>
 </table>
 
 ---
-
-## 🏆 Featured Work
-
-<div align="center">
-
-<a href="https://github.com/ABPanchal1074">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ABPanchal1074&repo=project-name-1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/ABPanchal1074">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ABPanchal1074&repo=project-name-2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-</div>
-
 ---
 
 ## 📈 Contribution Activity
