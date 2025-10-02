@@ -213,7 +213,7 @@ I'm always interested in discussing AI research, challenging problems, and innov
 Feel free to reach out for collaborations, consulting, or just a technical discussion.
 
 [![GitHub followers](https://img.shields.io/github/followers/ABPanchal1074?label=Follow&style=social)](https://github.com/ABPanchal1074)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+[![Twitter Follow](https://img.shields.io/twitter/follow/?style=social)](http://x.com/panchal_an39637)
 
 </div>
 
