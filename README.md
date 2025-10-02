@@ -25,10 +25,10 @@ I specialize in transforming complex problems into elegant AI-driven solutions, 
 class AniketPanchal:
     def __init__(self):
         self.role = "AI/ML Engineer"
-        self.focus_areas = ["NLP", "Deep Learning", "LLMs", "Computer Vision"]
+        self.focus_areas = ["NLP", "Deep Learning", "LLMs"]
         self.current_stack = {
-            "frameworks": ["PyTorch", "TensorFlow", "JAX"],
-            "specialties": ["Transformers", "Optimization", "MLOps"],
+            "frameworks": ["PyTorch", "TensorFlow"],
+            "specialties": ["Transformers", "Optimization"],
             "currently_exploring": ["Multi-modal AI", "Efficient Inference", "AI Safety"]
         }
     
@@ -59,14 +59,12 @@ class AniketPanchal:
 - High-performance inference
 - Distributed training systems
 - Real-time AI applications
-- End-to-end MLOps
 
 </td>
 <td width="33%" valign="top">
 
 ### 🎯 Domain Expertise
 - Natural Language Processing
-- Computer Vision
 - Recommendation Systems
 - Time Series Analysis
 - Generative AI
