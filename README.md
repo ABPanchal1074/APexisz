@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/aniket-panchal-0502382b8/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/http://x.com/panchal_an39637"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="https://kaggle.com/https://www.kaggle.com/apexisz"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aniket-panchal-0502382b8/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="http://x.com/panchal_an39637"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/apexisz"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=ABPanchal1074&color=58A6FF&style=flat-square&label=Profile+Views"/>
 </p>
 
